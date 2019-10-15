@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraTool</string>
+    <string name="start">开始</string>
+    <string name="exit">exit</string>
+</resources>

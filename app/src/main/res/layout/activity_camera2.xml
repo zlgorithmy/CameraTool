@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="#FFFFFFFF"
+    tools:context=".Camera2Activity">
+    <TextureView
+        android:layout_centerInParent="true"
+        android:id="@+id/mTextureView0"
+        android:layout_width="1081dp"
+        android:layout_height="811dp" />
+    <TextureView
+        android:layout_centerInParent="true"
+        android:id="@+id/mTextureView1"
+        android:layout_width="480dp"
+        android:layout_height="360dp" />
+</RelativeLayout>
